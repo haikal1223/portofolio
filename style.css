@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: aqua;
+}
+
+.container {
+  margin-left: 125px;
+  margin-right: 125px;
+  background-color: blue;
+  max-width: 1280px;
+}
